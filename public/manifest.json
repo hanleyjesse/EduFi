@@ -3,8 +3,8 @@
   "short_name": "EduFi",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#1E90FF",
+  "background_color": "#d4e8c1",
+  "theme_color": "#d4e8c1",
   "icons": [
     {
       "src": "/icons/icon-192.png",
